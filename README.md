@@ -3,6 +3,7 @@
 * Graduated from UBC - BSc. in Computer Science
 * First Year Graduate Student at uOttawa
 * LinkedIn: https://www.linkedin.com/in/puck-wang-2020/
+* Portfolio: https://www.pwang97.com/
 
 ### Languages, Libraries, and Frameworks
   <div style="align:center>
