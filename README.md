@@ -12,7 +12,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwang1997&layout=compact&count_private=true&count_private=true&show_icons=true&icon_color=805AD5&text_color=718096&hide_title=true&bg_color=FFFFFF" align="left" />
 </a>
 <br>
-<div>
+<br>
+
+### Languages, Libraries, and Frameworks
+<div style="align:center>
                 <img alt="badge-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
                 <img alt="badge-python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
                 <img alt="badge-php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -29,10 +32,12 @@
                 <img alt="badge-code-ignier" src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
                 <img alt="badge-spring-boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
 
-                <img alt="badge-github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-                <img alt="badge-power-bi" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+ </div>
+### Software and Tools
+<div style="align:center>
+                 <img alt="badge-power-bi" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
 
                 <img alt="badge-travis-ci" src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" />
                 <img alt="badge-docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
                 <img alt="badge-aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
- </div>
+</div>
