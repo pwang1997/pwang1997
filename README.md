@@ -1,7 +1,7 @@
 ### Hello, this is Puck 👋
 
 * Graduated from UBC - BSc. in Computer Science
-* First Year Graduate Student at uOttawa
+* Second Year Graduate Student at uOttawa
 * LinkedIn: https://www.linkedin.com/in/puck-wang-2020/
 * Portfolio: https://www.pwang97.com/
 * Blog: https://github.com/pwang1997/blog
