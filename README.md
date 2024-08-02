@@ -3,7 +3,7 @@
 * Graduated from UBC - BSc. Honours Program in Computer Science in 2020.
 * Acquired Master of Applied Data Science from UOttawa in 2023.
 * LinkedIn: https://www.linkedin.com/in/puck-wang-2020/
-* Blog: [Facade](https://blog.zhengliang.facademe.xyz/)
+* Blog: https://facade-v2.vercel.app
 * Frontend: Next.js, React, TypeScript, Tailwind CSS, Material UI, Sass
 * Backend: Spring Boot, Spring Cloud, Node.js, gRPC, Sentinel, Nacos, Swagger API, Django, Flask, JUnit
 * Databases MySQL, PostgreSQL, MongoDB, GraphQL, Redis
